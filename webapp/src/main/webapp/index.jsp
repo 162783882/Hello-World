@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1>Nuevo registro de usuarios Devops</h1>
-    <p>Please fill in this form to create an account.</p>
+    <p>Por favor rellena los campos a continuacion</p>
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
