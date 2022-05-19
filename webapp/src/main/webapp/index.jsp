@@ -4,7 +4,7 @@
     <h1>Por favor completa los campos a continuacion</h1>
     <hr>
      
-    <label for="Name"><b>Enter Name</b></label>
+    <label for="Name"><b>Ingrese su nombre</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
     
